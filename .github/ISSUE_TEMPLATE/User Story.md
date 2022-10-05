@@ -1,12 +1,3 @@
----
-name: AGILE_TEMPLATE
-about: New template which was done on SE lab class.
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]
 **I need** [function]
 **So that** [benefit]
